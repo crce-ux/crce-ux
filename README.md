@@ -12,7 +12,7 @@
 
 | 仓库 | 是什么 |
 |---|---|
-| [**research-workflow**](https://github.com/crce-ux/research-workflow) | 总仓：管线地图（P→A→B→C→D→E）、五道门禁、六条轴、26 个脚本、PPT 骨架模板 |
+| [**research-workflow**](https://github.com/crce-ux/research-workflow) | 总仓：管线地图（P→A→B→C→D→E）、五道门禁、六条轴、27 个脚本、PPT 骨架模板 |
 
 ### 配套 skill
 
