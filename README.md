@@ -12,7 +12,7 @@
 
 | 仓库 | 是什么 |
 |---|---|
-| [**research-workflow**](https://github.com/crce-ux/research-workflow) | 总仓：管线地图（P→A→B→C→D→E）、五道门禁、六条轴、27 个脚本、PPT 骨架模板 |
+| [**research-workflow**](https://github.com/crce-ux/research-workflow) | 总仓：管线地图（P→A→B→C→D→E）、五道门禁、六条轴、54 个脚本、PPT 骨架模板 |
 
 ### 配套 skill
 
@@ -24,14 +24,6 @@
 | [academic-slides](https://github.com/crce-ux/academic-slides) | 学术汇报 PPT 全链路 | 待核清零 + 出片工具链 + 理解确认 |
 | [peer-review](https://github.com/crce-ux/peer-review) | 同行评议 | 领域核查**五层生成轴** + 三份样例（TRS / EEG / ML） |
 | [study-design](https://github.com/crce-ux/study-design) | 课题设计 | 没有证伪条件，就不是科学假设 |
-
----
-
-## 评测
-
-| 仓库 | 是什么 |
-|---|---|
-| [ai-writing-detection-eval](https://github.com/crce-ux/ai-writing-detection-eval) | 对 AI 写作检测工具的对照实测：**中文能测，英文特征层完全失效**——失败伪装成合格 |
 
 ---
 
